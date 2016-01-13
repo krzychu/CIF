@@ -1,0 +1,4 @@
+*.swp
+*.cif
+*.CIF
+__pycache__/
